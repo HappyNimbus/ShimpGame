@@ -3,7 +3,7 @@
 Design Description:
 
 
-The game has 4 turns which continues looping
+	The game has 4 turns which continues looping
 
 	Turn 1: Player 1 chooses a number to bet
 	
